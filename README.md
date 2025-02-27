@@ -1,0 +1,1 @@
+# syzytechnoly-coding-challenge
